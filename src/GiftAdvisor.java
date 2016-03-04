@@ -127,7 +127,7 @@ public class GiftAdvisor {
 				}
 				else if(ageRange.equalsIgnoreCase("child"))
 				{
-					recommendedGift = "SD Gunpla";
+					recommendedGift = "Teddy Bear";
 				}
 				else
 				{
@@ -146,7 +146,7 @@ public class GiftAdvisor {
 				}
 				else if(ageRange.equalsIgnoreCase("child"))
 				{
-					recommendedGift = "HG Gunpla";
+					recommendedGift = "53\" Hugfun Bear";
 				}
 				else
 				{
@@ -165,7 +165,7 @@ public class GiftAdvisor {
 				}
 				else if(ageRange.equalsIgnoreCase("child"))
 				{
-					recommendedGift = "MG Gunpla";
+					recommendedGift = "93\" Hugfun Bear";
 				}
 				else
 				{
